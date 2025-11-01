@@ -1,0 +1,5 @@
+{
+  "name": "React Voting App",
+  "description": "A feature-rich, single-page voting application built with React, TypeScript, and Tailwind CSS. Users can register, log in, create public or private polls, and vote on them. The dashboard provides views for all votes, user-created votes, and a form to create new ones.",
+  "requestFramePermissions": []
+}
